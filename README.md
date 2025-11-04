@@ -1,9 +1,7 @@
 
 
 # 👋 Hi, I'm Mahmudul Hasan Anik 
-<p align="center">
-  <img width="https://postimg.cc/p96yCp6z" alt="alamin" />
-</p>
+https://postimg.cc/p96yCp6z
 
 ### 💻 Frontend Web Developer
 
