@@ -10,7 +10,7 @@
 - 🌱 I’m currently exploring and learning exciting new aspects of web development.
 - 💞️ I’m looking to collaborate on open-source projects
 - 👉 and hackathons, or any coding-related challenges.
-### 🧠 About Me
+# 🧠 About Me
 I'm a passionate Frontend Developer who loves building user-friendly and responsive websites.  
 Currently, I’m learning advanced React concepts and exploring Next.js for full-stack development.  
 I enjoy solving real-world problems through clean and efficient code.
