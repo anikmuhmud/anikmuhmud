@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mahmudul Hasan Anik 
 <p align="center">
-  <img width="80%" height="400" src="https://github.com/devsheikhalamin/devsheikhalamin/blob/main/alamin02.jpg" alt="alamin" />
+  <img width="https://postimg.cc/p96yCp6z" alt="alamin" />
 </p>
 
 ### 💻 Frontend Web Developer
