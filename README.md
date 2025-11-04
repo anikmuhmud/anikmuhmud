@@ -3,6 +3,13 @@
 # 👋 Hi, I'm Mahmudul Hasan Anik 
 
 ### 💻 Frontend Web Developer
+
+-👑 I am a passionate Web Developer and an expert in Laravel, React, and Inertia
+- 👀 I’m interested in learning coding, especially in web development.
+- 🌱 I’m currently exploring and learning exciting new aspects of web development.
+- 💞️ I’m looking to collaborate on open-source projects
+- 👉 and hackathons, or any coding-related challenges.
+
 ##
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hasan.anik.528) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.anikmuhmud@gmail.com) 
 
