@@ -10,7 +10,10 @@
 - 🌱 I’m currently exploring and learning exciting new aspects of web development.
 - 💞️ I’m looking to collaborate on open-source projects
 - 👉 and hackathons, or any coding-related challenges.
-
+### 🧠 About Me
+I'm a passionate Frontend Developer who loves building user-friendly and responsive websites.  
+Currently, I’m learning advanced React concepts and exploring Next.js for full-stack development.  
+I enjoy solving real-world problems through clean and efficient code.
 ##
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hasan.anik.528) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.anikmuhmud@gmail.com) 
 
