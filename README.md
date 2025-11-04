@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mahmudul Hasan Anik 
 <p align="center">
- <img src="https://i.postimg.cc/hjSxSm8y/Image.jpg)](https://postimg.cc/p96yCp6z" height="50%"/>
+  <img src="https://i.postimg.cc/hjSxSm8y/Image.jpg" alt="Banner" width="100%" height="200">
 </p>
 
 ### 💻 Frontend Web Developer
